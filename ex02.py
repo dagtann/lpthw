@@ -1,0 +1,1 @@
+print "The # character is used to comment." # This will not show
